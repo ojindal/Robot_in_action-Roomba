@@ -9,7 +9,7 @@ The aim is to design a Roomba-like system capable of mapping its environment and
 
 ## Path traced by Algorithm: Two Obstacles 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/89351094/209572628-7fc27b92-47c3-4042-ba8b-b0e744d0097a.png"/>
+  <img width="400" alt="image" src = "https://user-images.githubusercontent.com/89351094/209572628-7fc27b92-47c3-4042-ba8b-b0e744d0097a.png"/>
  </p>
 
  
